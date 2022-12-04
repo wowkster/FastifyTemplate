@@ -1,0 +1,6 @@
+node_modules
+dist
+nodemon.json
+README.md
+.gitignore
+*.env
