@@ -4,14 +4,20 @@ This is a template repository for easily creating containerized (and optionally 
 
 ## Getting Started
 
+Make sure you have `pnpm` installed:
+
+```sh
+npm i -g pnpm
+```
+
 Install packages using 
 
-```bash 
-yarn install
+```sh 
+pnpm install
 ```
 
 and then run the server locally using
 
-```bash
-yarn dev
+```sh
+pnpm dev
 ```

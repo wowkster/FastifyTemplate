@@ -3,5 +3,5 @@
         "dist"
     ],
     "ext": "js",
-    "exec": "npm run start"
+    "exec": "pnpm start"
 }

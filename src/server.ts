@@ -3,7 +3,7 @@ config()
 
 import createFastify from 'fastify'
 
-import routes from './routes'
+import routes from './routes/index.js'
 
 const fastify = createFastify({
     logger: {
